@@ -1,0 +1,13 @@
+.booboo,
+.wabawaba {
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+    font-size: 28px; 
+}
+
+.booboo {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    }
+.wabawaba {
+    background-color: yellow;
+    }
